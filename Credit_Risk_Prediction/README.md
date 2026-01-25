@@ -19,11 +19,11 @@ Predict if a loan applicant is likely to default using a supervised classificati
    - Bar Charts – To compare approval rates across different categories.
 
 3. Modeling
-   - Model: Decision Tree Classifier  
-   - Achieved Accuracy: 69%
+   - Model: Logistic Regression  
+   - Achieved Accuracy: 82%
 
 4. Evaluation
-   - Confusion Matrix & Classification Report used for performance check.
+   - Confusion Matrix used for performance check.
 
 # 🔍 Key Insights
 - Credit History is a strong predictor.
