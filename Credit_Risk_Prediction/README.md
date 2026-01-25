@@ -27,5 +27,6 @@ Predict if a loan applicant is likely to default using a supervised classificati
 
 # 🔍 Key Insights
 - Credit History is a strong predictor.
+- Feature analysis revealed loan amount, income, and education status played key roles.
 - Education and Income also influence loan approval.
 - Dataset had some imbalance affecting precision.
