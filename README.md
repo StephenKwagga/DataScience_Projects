@@ -1,4 +1,4 @@
-# 📊 DevelopersHub Data Science & Analytics Internship Tasks
+# 📊 DevelopersHub Data Science & Analytics Tasks
 
 Author: Stephen Kwagga  
 Internship: Data Science & Analytics – DevelopersHub Corporation  
