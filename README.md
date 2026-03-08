@@ -1,7 +1,7 @@
 # 📊 DevelopersHub Data Science & Analytics Tasks
 
 Author: Stephen Kwagga  
-Internship: Data Science & Analytics – DevelopersHub Corporation  
+Task: Data Science & Analytics – DevelopersHub Corporation  
 
 
 # 🗂 Overview
